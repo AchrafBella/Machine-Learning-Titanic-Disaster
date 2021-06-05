@@ -7,11 +7,11 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.  O
 methodology
 -----------
 
--Data wrangling
--Data analysis
--Descriptive statistic
--Feautres selection
--Features Transformation
--Model selection
--Improving hyperparameters
+- Data wrangling
+- Data analysis
+- Descriptive statistic
+- Feautres selection
+- Features Transformation
+- Model selection
+- Improving hyperparameters
 
